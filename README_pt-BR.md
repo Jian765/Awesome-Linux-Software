@@ -1,18 +1,13 @@
 # IMPRESSIONANTES aplicativos para Linux
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
-
 
 🐧 Este repositório é uma coleção de **IMPRESSIONANTES** aplicativos e ferramentas Linux para **usuários/desenvolvedores**.
 <br>
 🐧 Sinta-se livre para **contribuir** / **star** / **fork** / **pull request**. Qualquer **recomendação** e **sugestão** será bem-vinda.
 
-*Atualização: Este resumo foi publicado em [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Você pode compartilhar esse link para novos usuários, pois podem achar mais amigável ler do que o github. Download em pdf [aqui](https://goo.gl/xhiKla).*
-
 **Reconhecimento:** *Tudo escrito abaixo é da minha própria experiência na faculdade e depois de ler vários materiais. Eu não sou profissional nem especialista, mas um aluno que tem uma grande paixão.
-Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem-vinda.*
+Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado.*
 
 Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) e [aqui(já atualizadas ultimamente).](https://github.com/0xE8551CCB/awesome-linux-software-cn)
 
@@ -144,7 +139,6 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source-Software][OSS Icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
 - [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine)
 - [Chatty](http://chatty.github.io/) - Chatty é um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que também não desejam a complexidade de um cliente IRC ou perder os recursos especifícos do Twitch.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty)
-- [Cutegram](http://aseman.co/en/products/cutegram/) - Oferece mais recursos do que o aplicativo oficial do Telegram. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram)
 - [Dino](https://dino.im) - Cliente de chat Jabber/XMPP limpo e moderno.  [![Open-Source Software][OSS Icon]](https://github.com/dino/dino)
 - [Discord](https://discordapp.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular.
 - [Franz](http://meetfranz.com/) - Franz é um aplicativo de messagem que combina vários serviços de bate-papo e messagem em um único aplicativo. [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz)
@@ -185,7 +179,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Personalização do Desktop
 - [Adapta Theme](https://github.com/tista500/Adapta) - Um tema Gtk+ adaptado baseado nas diretrizes do Material Design. ![Open-Source Software][OSS Icon]
 - [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - Um tema de ícone modernos que deve ser usado com o Moka Icon Theme. ![Open-Source Software][OSS Icon]
-- [Arc Theme](https://github.com/horst3180/arc-theme) - Um tema flat com elementos transparentes. ![Open-Source Software][OSS Icon]
+- [Arc Theme](https://github.com/NicoHood/arc-theme) - Um tema flat com elementos transparentes. ![Open-Source Software][OSS Icon]
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - O projeto OpenCompositing traz efeitos visuais de desktop 3D que melhoram a usabilidade do sistema X Window e proporcionam uma maior produtividade.
 - [Conky](https://github.com/brndnmtthws/conky) - Conky é um monitor de sistema gratuito e leve para X, que exibe qualquer tipo de informação no seu Desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop é uma construção de conjuntos de temas de desktop moderno para o Projeto Solus. Seu design é principalmente flat com um uso minímo de sombras para profundiade. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme)
@@ -563,7 +557,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
 - [Screencloud](http://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website: http://screencloud.net/. [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud)
 - [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
-- [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application. [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots)
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 
 #### Streaming
@@ -609,7 +602,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.  [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
 - [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.  [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
 - [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.  [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
-- [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
+- [Popcorntime](https://popcorntime.sh/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/)
 
 ### Trabalho
 
@@ -650,7 +643,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Produtividade
 #### Automation
 - [Actionaz](http://actionaz.org/) - Automation tasks utility for Ubuntu/Linux
-- [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
+- [Autokey](https://github.com/autokey/autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 
 #### Dock
@@ -679,7 +672,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 #### Note Taking
 - [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
-- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.  
+- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
@@ -775,6 +768,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world
 - [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome
 - [Hyper](https://hyper.is/) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper)
+- [![Open-Source Software][OSS Icon]](https://github.com/KeyLo99/k3rmit) [K3rmit](https://github.com/KeyLo99/k3rmit) - A VTE-based terminal emulator that aims to be simple, fast and effective.
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
 - [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
 - [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator. [![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)
@@ -819,7 +813,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage,  public IP address and internet connection status. [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor)
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - A tool, that allows one to integrate the Linux desktop with an Android smartphone and can be used to send files to and from the phone and the linux desktop, use the phone as a trackpad, control the desktop media player using the phone, and lots more.
 - [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX([dead](https://github.com/keepassx/keepassx/pull/204)) [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc)
-- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.  
+- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb)
 - [![Open-Source Software][OSS Icon]](https://github.com/jordansissel/keynav) [Keynav](http://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few key strokes.
 - [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi is a background manager for all Linux platforms, provides fully customizeable backgrounds that can be tweaked at any time. [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi)
@@ -969,7 +963,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ## Window Managers
 
 ### Compositors
-- [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton)
+- [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton)
 - [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency. [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr)
 
 ### Stacking window managers
@@ -1155,7 +1149,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) que ajudaram a tornar esta lista possível.
 *Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ³runs por muitas sugestões e elogios*
- ...   
+ ...
 
 **[â¬† voltar ao topo](#table-of-contents)**
 
@@ -1193,11 +1187,5 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 
 Este projeto trabalha sob a licença [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-<div id='donation'/>
-<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>  
-
-Uma cerveja no seu país pode comprar uma refeição na minha.
-
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg

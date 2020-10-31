@@ -1,7 +1,5 @@
 # ซอฟต์แวร์ลินุกซ์ สุดเจ๋ง
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
 
 
@@ -9,9 +7,7 @@
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
 
-*Update: This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). You can share this link with new users, as they may find it friendlier to read than GitHub. Download as a pdf [here](https://goo.gl/xhiKla).*
-
-**Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
+**Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.*
 
 * ภาษาโปรตุเกส บราซิล : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 * ภาษาจีน : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) หรือ [ที่นี่](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
@@ -94,7 +90,7 @@
 ## Applications
 
 ### Audio
-*สำหรับแหล่งทรัพยากรในหมวดหมู่นี้ ที่ครอบคลุมกว่า/ขั้นสูงกว่า/ดีกว่า ด้านเสียงในลินุกซ์ คูณอาจสนใจ [ที่นี่](https://github.com/nodiscc/awesome-linuxaudio)*
+*สำหรับแหล่งทรัพยากรในหมวดหมู่นี้ ที่ครอบคลุมกว่า/ขั้นสูงกว่า/ดีกว่า ด้านเสียงในลินุกซ์ คุณอาจสนใจ [ที่นี่](https://github.com/nodiscc/awesome-linuxaudio)*
 - [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/en/airtime/download/) - The open broadcast software for scheduling and remote station management
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - บันทึก, แก้ไข, และมิกซ์ บนลินุกซ์
 - [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - ตัวเล่นไฟล์เสียงที่เป็นโอเพนซอร์ส ที่กินทรัพยากรเครื่องของคุณน้อยมากๆ
@@ -104,15 +100,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - โปรแกรมเล่นไฟล์เสียงผ่าน MPD (Music Player Daemon) สำหรับ ลินุกซ์, วินโดวส์, แมคโอเอส
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - โปรแกรมเล่นไฟล์เพลงความละเอียดสูง และรองรับไฟล์เสียงหลายรูปแบบ
 - [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - โปรแกรมเล่นไฟล์เสียงแบบเท็กซ์โหมดบนคอนโซล ที่เล็ก, เร็ว และประสิทธิภาพสูง บนระบบปฏิบัติการแบบ Unix-like
-- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - แอปพลิเคชั่นที่พัฒนาโดยทีม Deepin Technology ที่มุ่งเน้นการเล่นไฟล์บนเครื่อง
-- [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org/index.php) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
+- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - แอปพลิเคชั่นที่พัฒนาโดยทีม Deepin Technology ที่มุ่งเน้นการเล่นไฟล์บนเครื่องของเรา
+- [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org/index.php) - fre:ac คือโปรแกรมแปลงไฟล์เสียงและแปลงแผ่น CD เป็นไฟล์เสียง ที่รองรับไฟล์เสียงหลายรูปแบบ ประกอบด้วย MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV และ Bonk
 - ![Open-Source Software][OSS Icon] [Gnormalize](http://gnormalize.sourceforge.net/) - โปรแกรมแปลงไฟล์เสียงและแปลง CD เป็นไฟล์เสียง โดยใช้ ReplayGain normalization algorithms, รวมถึงใช้เป็นตัวแก้ไข metadata (tag) และเป็นตัวเล่นไฟล์เสียงได้อีกด้วย โดยใช้ gtk2-perl ภายใต้ GNU/Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - โปรแกรมสำหรับเล่นเพลงจาก Google Play Music โดยนักพัฒนาภายนอก รองรับหลายระบบปฏิบัติการสำหรับเครื่องเดสก์ท็อป
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - โปรแกรมสำหรับฟัง podcast และรวบรวมไฟล์มีเดียต่างๆ
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - ซอฟต์แวร์ที่เกียวข้องกับวิทยุสำหรับ Ubuntu Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - โปรแกรมเล่นเพลงหน้าตาดี และเล่นไฟล์เพลงที่อยู่บนคลาวด์ได้
-- [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
-- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - ซอฟต์แวร์สำหรังสังเคราะห์เสียง สามารถใช้ได้ทั้งแบบ stand alone และเป็นแบบปลั๊กอิน LV2, VST, VST3 และ AU
+- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - โปรแกรมสำหรับสร้างแผ่น CD/DVD สำหรับลินุกซ์ ปรับแต่งให้เข้ากันกับ KDE
 - [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - แก้ไขข้อมูล tag ได้ทีละหลายๆ ไฟล์ เช่น ศิลปิล, อัลบั้ม, ปีที่ออก และ แนวเพลง สำหรับไฟล์ mp3
@@ -123,22 +119,22 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - โปรแกรมแสดงเนื้อเพลงที่เล่นผ่าน Spotify
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - ซอฟต์แวร์ DJ ฟรี ที่มีทุกสิ่งสำหรับแสดงการมิกซ์สด โดยให้อารมณ์ใกล้เคียงโปรแกรม Traktor
 - [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - เชื่อมต่อเพลงบนคลาวด์กับเครื่องเดสก์ท็อปของคุณ
-- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - ซอฟต์แวร์ music server พัฒนาด้วยภาษา Python
 - [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - โปรแกรมเล่นเพลงอย่างง่าย รองรับหลายระบบปฏิบัติการ
 - [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
-- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard คือซอฟต์แวร์แก้ไขแท็คของไฟล์เสียง พัฒนาโดยใช้ภาษา Python รองรับหลายระบบปฏิบัติการ
 - [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - A Capable lyrics app with synchronized lyrics function.
 - [Netease Music](http://music.163.com/#/download) - โปรแกรมมเล่นเพลงสำหรับ Netease - ผู้ให้บริการเพลงบนคลาวด์ในประเทศจีน
 - [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - โปรแกรมเล่นเพลงที่ถูกเขียนมาจาก Electron, รองรับหลายระบบปฏิบัติการ ที่สามารถเล่นเพลงผ่านเครือข่ายได้หลายแหล่ง
 - [Ocenaudio](http://www.ocenaudio.com/whatis) - โปรแกรมแก้ไขตัดต่อไฟล์เสียงที่เหมาะสำหรับผู้ที่ต้องการวิเคราะห์ไฟล์เสียง
 - [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - แสดงเนื้อเพลงจากโปรแกรมเล่นเพลงโปรดของคุณ
-- [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME audio player for transcription.
+- [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME ซอฟต์แวร์เล่นไฟล์เสียงจาก GNOME สำหรับถอดไฟล์เสียง
 - [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - โปรแกรมสำหรับเล่นเพลงผ่าน Pandora สำหรับลินุกซ์
 - [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) [PulseEffect](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications.
 - [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
 - [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - โปรแกรมเล่นวิทยุออนไลน์สำหรับลินุกซ์
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - โปรแกรมเล่นเพลง พัฒนาโดย GNOME
-- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - โปรแกรมเล่นไฟล์เสียง ขนาดกะทัดรัด และทำงานได้รวดเร็ว สำหรับลินุกซ์ เขียนโดย C++ และรองรับ Qt
+- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - โปรแกรมเล่นไฟล์เสียง ขนาดกะทัดรัด และทำงานได้รวดเร็ว สำหรับลินุกซ์ พัฒนาโดยภาษา C++ และรองรับ Qt
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - ผู้นำด้านการแปลงไฟล์เสียง โดยมีจุดหมายคือทำให้ใช้ง่ายและทำงานได้รวดเร็ว
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - เครื่องมือแปลง CD เป็นไฟล์เสียงสำหรับ GNOME
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - โปรแกรมเล่น SoundCloud บนเดสก์ท็อป
@@ -153,7 +149,6 @@
 #### 3rd party Client
 - [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - โปรแกรมแชท Facebook Messenger บนเดสก์ท็อป หน้าตาสวยงาม
 - [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty คือโปรแกรมสำหรับสนทนาบน Twitch ซึ่งเป็นได้มากกว่าการสนทนาผ่านเว็บแบบปกติ แต่ไม่ถึงกับต้องมีฟีเจอร์เท่าโปรแกรม IRC ทั่วไป
-- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) [Cutegram](http://aseman.co/en/products/cutegram/) - มีฟีเจอร์มากกว่าโปรแกรมจากทาง Telegram
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - เป็นเว็บสำหรับใช้ Skype
 - [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - แอปสำหรับใช้ Facebook messenger
 - [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) - โปรแกรมสำหรับใช้ Slack บนลินุกซ์
@@ -207,7 +202,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
-- [![Open-Source Software][OSS Icon]](https://github.com/horst3180/arc-theme) [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
+- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - A flat theme with transparent elements
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
@@ -250,7 +245,7 @@
 - [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE.
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
 
-#### Database
+#### ฐานข้อมูล
 - [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra) [Cassandra](http://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 - [![Open-Source Software][OSS Icon]](https://github.com/apache?query=couchdb) [CouchDB](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 - [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) [DBeaver](http://dbeaver.jkiss.org/) - A universal database client supporting multiple platforms and databases.
@@ -362,24 +357,24 @@
 - [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
 
 ### Editors
-- [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - Hackable text editor for the 21st century.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
-- [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - A modern text editor that understands web design.
-- [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
-- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
-- [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/gedit/) [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ developement (Cmake integrated).
-- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](http://kakoune.org/) - Kakoune code editor - Vim inspired.  Faster as in less keystrokes.  Multiple selections.  Orthogonal design. Has a strong focus on interactivity.
-- [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2.
-- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment.
+- [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - ซอฟต์แวร์แก้ไขข้อความ ที่สามารถปรับแต่งได้อย่างอิสระ สำหรับ ศตวรรษที่ 21
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish คือซอฟต์แวร์แก้ไขข้อความสำหรับโปรแกรมเมอร์และนักพัฒนาเว็บไซต์ ที่มีประสิทธิภาพ
+- [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - ซอฟต์แวร์แก้ไขข้อความที่ทันสมัย และใช้ได้ดีสำหรับการออกแบบเว็บไซต์
+- [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - ซอฟต์แวร์แก้ไขข้อความ ที่ปรับแต่งได้อย่างอิสระ ฟรี และ อีกมากมาย
+- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany คือซอฟต์แวร์แก้ไขข้อความที่ใช้ GTK+ ในการพัฒนา มาพร้อมกับฟีเจอร์พื้นฐาน, ขนาดเล็ก ทำงานได้รวดเร็ว โดยไม่ต้องติดตั้งส่วนอื่นเพิ่มเติม
+- [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/gedit/) [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit คือซอฟต์แวร์แก้ไขข้อความจาก GNOME ซึ่งมุ่งเน้นให้ใช้งานได้ง่าย
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - ซอฟต์แวร์ IDE ประสิทธิภาพสูง สำหรับการพัฒนาด้วย C / C++ / Bash / JavaScript, สร้างโดยทีมจาก Gnome, เป็นหนึ่งใน IDE สำหรับการพัฒนาด้วยภาษา C/C++ ที่ดีที่สุด (รองรับในตัว Cmake)
+- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](http://kakoune.org/) - Kakoune code editor - ซอฟต์แวร์ที่ได้แรงบันดาลใจจาก Vim, ใช้จำนวนการพิมพ์ที่น้อยกว่า สามารถเลือกข้อความได้หลายตำแหน่งพร้อมกัน
+- [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate คือซอฟต์แวร์ที่เปิดได้หลายไฟล์พร้อมกัน และเป็นส่วนหนึ่งของ KDE ตั้งแต่รุ่น 2.2.
+- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - ซอฟต์แวร์ฟรีและโอเพนซอร์ส สำหรับพัฒนาโปรแกรม รองรับหลายภาษา
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
-- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution.
-- [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
+- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - ชุดซอฟต์แวร์ Emacs ที่ร่วมกันพัฒนาโดยชุมชน
+- [Sublime](https://www.sublimetext.com/) - ซอฟต์แวร์แก้ไขข้อความมากประสิทธิภาพ มีฟีเจอร์ค้นหาขั้นสูง และเพิ่มประสิทธิภาพด้านอื่นผ่านปลั๊กอิน
 - [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
-- [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
-- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.
-- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
+- [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) - Vim คือซอฟต์แวร์แก้ไขข้อความขั้นสูง ซึ่งมุ่งไปที่การให้ประสิทธิภาพเช่นเดียวกับ ซอฟต์แวร์ 'Vi' ที่ใช้แพร่หลายใน Unix แต่มีฟีเจอร์ที่ครบครันกว่า เหมาะสำหรับผู้ที่ใช้ vi เป็นปกติอยู่แล้ว
+- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code คือซอฟต์แวร์แก้ไขโค้ดขนาดเล็ก แต่มีประสิทธิภาพ ซึ่งสามารถใช้บนเดสก์ท็อปได้ ทั้ง Windows, OS X และ Linux, ตัวซอฟต์แวร์รองรับ JavaScript, TypeScript และ Node.js ในตัว และยังสามารถรองรับภาษาอื่นๆ ได้ (C++, C#, Python, PHP, Golang)
+- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano คือซอฟต์แวร์แก้ไขข้อความอย่างง่าย ที่ใช้งานบนคอนโซลได้ง่าย
+- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim คือซอฟต์แวร์ที่ fork จาก Vim ซึ่งมุ่งเน้นในการให้ประสบการณ์ที่ดีต่อผู้ใช้ และ ปลั๊กอิน
 - [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io/) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
 
 
@@ -437,7 +432,7 @@
 
 
 ### File Manager
-- [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) - A very capable program that can unzip nearly any file archiving format.
+- [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) - ซอฟต์แวร์ที่สามารถจัดการไฟล์บีบอัดได้เกือบทุกฟอร์แมต
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
@@ -572,7 +567,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.
 
 #### Image Management
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/digikam) [Digikam](http://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/digikam) [Digikam](http://www.digikam.org/) - DigiKam คือซอฟต์แวร์สำหรับจัดการรูปถ่ายขั้นสูงในลินุกซ์
 - [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.
 - [![Open-Source Software][OSS Icon]](http://www.kornelix.net/downloads/downloads.html) [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
 - [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/) [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).
@@ -608,7 +603,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website: http://screencloud.net/.
 - [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
-- [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 
 #### Streaming
@@ -654,7 +648,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.
-- [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html) [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.
+- [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/) [Popcorntime](https://popcorntime.sh/) - Watch torrent movies instantly.
 
 
 ### Office
@@ -698,7 +692,7 @@
 
 #### Automation
 - [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actionaz](http://actionaz.org/) - An utility for task automation Ubuntu/Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/AutoHotkey/AutoHotkey) [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
+- [![Open-Source Software][OSS Icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 
 #### Dock
@@ -729,7 +723,7 @@
 #### Note Taking
 - [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
-- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.  
+- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
@@ -1011,7 +1005,7 @@
 ## Window Managers
 
 ### Compositors
-- [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 
 ### Stacking window managers
@@ -1232,12 +1226,5 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-<div id='donation'/>
-<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>
-
-
-A beer in your country can buy a meal in mine.
-
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg

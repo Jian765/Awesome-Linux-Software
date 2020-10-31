@@ -1,17 +1,12 @@
 # Awesome Linux Software
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
-
 
 🐧 Ce repos est une collection **d'Incroyables** outils et d'applications Linux pour **utilisateurs et développeurs**.
 <br>
 🐧 N'hesitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
 
-*Mise à jour: Ce repo a été publié sur [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Vous pouvez partager ce lien avec de nouveaux utilisateurs, ils peuvent trouver ça plus simpas que de le lire sur GitHub. Ou le télécharger au format pdf [ici](https://goo.gl/xhiKla).*
-
-**Reconnaissance:** *Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté. Si vous trouvez mon travail de valeur, une [donation](#donation) est très appréciée.*
+**Reconnaissance:** *Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté.*
 
 * Verion Brésilienne Portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 * Version Chinoise: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
@@ -159,7 +154,6 @@
 #### 3rd party Client
 - [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app.
 - [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
-- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype.
 - [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger.
 - [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux.
@@ -214,7 +208,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
-- [![Open-Source Software][OSS Icon]](https://github.com/horst3180/arc-theme) [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
+- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - A flat theme with transparent elements
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
@@ -617,7 +611,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website: http://screencloud.net/.
 - [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
-- [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 
 #### Streaming
@@ -663,7 +656,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.
-- [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html) [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.
+- [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/) [Popcorntime](https://popcorntime.sh/) - Watch torrent movies instantly.
 
 
 ### Office
@@ -707,7 +700,7 @@
 
 #### Automation
 - [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actionaz](http://actionaz.org/) - An utility for task automation Ubuntu/Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/AutoHotkey/AutoHotkey) [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
+- [![Open-Source Software][OSS Icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 
 #### Dock
@@ -837,6 +830,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
+- [![Open-Source Software][OSS Icon]](https://github.com/KeyLo99/k3rmit) [K3rmit](https://github.com/KeyLo99/k3rmit) - A VTE-based terminal emulator that aims to be simple, fast and effective.
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/konsole) [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.
@@ -1018,7 +1012,7 @@
 ## Window Managers
 
 ### Compositors
-- [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 - [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 
@@ -1241,12 +1235,5 @@ Merci à [**Tous les Contributeurs Github**](https://github.com/LewisVo/Awesome-
 
 Ce travail est sous licence [Licence internationale Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-<div id='donation'/>
-<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>
-
-
-Une biére dans votre pays peut acheter un repase dans le mien.
-
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
